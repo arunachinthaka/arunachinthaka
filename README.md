@@ -5,16 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunachinthaka" alt="arunachinthaka" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arunachinthaka" target="blank"><img src="https://img.shields.io/twitter/follow/arunachinthaka?logo=twitter&style=for-the-badge" alt="arunachinthaka" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - ⚡ Fun fact **I am a Simple Boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arunachinthaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunachinthaka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aruna-chinthaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aruna-chinthaka" height="30" width="40" /></a>
-<a href="https://fb.com/arunachinthaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunachinthaka" height="30" width="40" /></a>
-<a href="https://instagram.com/arunachinthaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunachinthaka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aruna-chinthaka-222327280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aruna-chinthaka-222327280/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61553279348657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61553279348657" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/arunachinthaka99/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arunachinthaka99/?hl=en" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczt7tnphcs4yva2a2ki0czw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczt7tnphcs4yva2a2ki0czw/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
